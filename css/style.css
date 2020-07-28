@@ -27,6 +27,7 @@
     font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 	padding-top: 10px;
 	color: #61EDB1;
+	text-align: center;
 }
 .header .bia {
 	width: 1250px;
@@ -62,7 +63,7 @@
 	font-size: 15px;
 }
 .menu ul li a:hover{
-	 
+	color: #61EDB1;
 	transition-duration: 0.5s;
 }
 .than {
@@ -171,6 +172,7 @@
     font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 	padding-top: 22px;
 	color: #FFFFFF;
+	text-align: center;
 }
 
 .logo{
@@ -238,8 +240,7 @@
 .footer{
 	width: 1250px;
 	height: 100px;
-	background:
-#3AAE7F;}
+	background:#FFFFFF;}
 .write {
 	width: 1250px;
 	height: 60px;
@@ -266,9 +267,20 @@
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	font-size: 15px;
 }
-
-
-
+.write ul li a:hover{
+	color: #61EDB1;
+	transition-duration: 0.5s;
+}
+.cuoi{
+	width: 1250px;
+	height: 40px;
+	background:#FFFFFF; 
+}
+.cuoi p{
+       text-align: center;
+	   font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	   margin-top: 10px; 
+}
 
 
 
