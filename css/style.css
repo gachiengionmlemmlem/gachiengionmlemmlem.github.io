@@ -262,14 +262,16 @@
 	color:#000000 ;
 	text-decoration: none;
 	display: block;
+	
 }
 .write ul li a {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	font-size: 15px;
+	
 }
-.write ul li a:hover{
+.write a:hover{
 	color: #61EDB1;
-	transition-duration: 0.5s;
+	transition-duration: 0.3s;
 }
 .cuoi{
 	width: 1250px;
