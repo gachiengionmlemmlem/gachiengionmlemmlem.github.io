@@ -1,0 +1,277 @@
+/* CSS Document */
+*{padding: 0; margin: auto}
+.background {
+	height: 3204px;
+	width: 1250px;
+	background:#FFFFFF;
+}
+.header{
+	width: 1250px;
+	height: 880px;
+	background:#FFFFFF ;
+}
+.header .tieude{
+	width: 1250px;
+	height: 50px;
+	background:#FFFFFF ;
+}
+.tieude .aa{
+	width: 300px;
+	height: 50px;
+	background:#FFFFFF;
+	float: left
+}
+.header .tieude p{
+	font-size: 28px;
+	float: left;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	padding-top: 10px;
+	color: #61EDB1;
+}
+.header .bia {
+	width: 1250px;
+	height:830px;
+	background: #6B7095;}
+.bia img {
+	width: 1250px;
+}
+.menu {
+	width: 1250px;
+	height: 60px;
+	background:#DD696B ;
+}
+.menu ul{
+	list-style: none;
+	background: #FFFFFF;
+	text-align: center;
+}
+.menu ul li{
+	color: #FFFFFF;
+	display: inline-table;
+	width: 200px;
+	height: 60px;
+	line-height: 60px;
+}
+.menu ul li a{
+	color:#000000 ;
+	text-decoration: none;
+	display: block;
+}
+.menu ul li a {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 15px;
+}
+.menu ul li a:hover{
+	 
+	transition-duration: 0.5s;
+}
+.than {
+	width: 1250px;
+	height: 2144px;
+	background:
+#FFFFFF}
+
+.one {
+	width: 1250px;
+	height: 1264px;
+	background:#FFFFFF;
+}
+.big {
+	width: 1010px;
+	height: 674px;
+	background: #4BBF51;
+	margin-left: 120px;
+    margin-top: 20px;
+}
+.big img {
+	width: 1010px;
+}
+.small {
+	width: 1010px;
+	height: 580px;
+	background:#FFFFFF ;
+	margin-left: 120px;
+	margin-top: 10px;
+}
+.a {
+	width: 330px;
+	height: 580px;
+	background:#FFFFFF;
+	float: left;
+}
+.a h1{
+	font-size: 25px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	padding-top: 5px;
+	margin-left: 25px;
+	font-style:normal;
+}
+.a img{
+	width: 330px;
+}
+.b {
+	width: 330px;
+	height: 580px;
+	background: #FFFFFF;
+	float: left;
+	margin-left: 10px;
+}
+.b h1{
+	font-size: 25px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	padding-top: 5px;
+	margin-left: 33px;
+	font-style:normal;
+}
+.b p{
+	font-size: 15px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	padding-top: 5px;
+	margin-left: 15px;
+	font-style:normal;
+}
+.b img{
+	width: 330px;
+}
+.c {
+	width: 330px;
+	height: 580px;
+	background: #FFFFFF;
+	float: right;
+}
+.c h1{
+	font-size: 25px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	padding-top: 5px;
+	margin-left: 20px;
+	font-style:normal;
+}
+.c img {
+	width: 330px;
+}
+.two {
+	width: 1250px;
+	height: 880px;
+	background:#73BDDC;
+}
+.two .hello{
+	width: 1250px;
+	height: 80px;
+	background:#61EDB1 ;
+}
+.two .hello .bb{
+	width:325px;
+	height: 80px;
+	background:#61EDB1;
+	float: left
+}
+.two .hello p{
+	font-size: 28px;
+	float: left;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	padding-top: 22px;
+	color: #FFFFFF;
+}
+
+.logo{
+	width: 1250px;
+	height: 400px;
+	background: #FFFFFF;
+}
+.logo .ab{
+	width: 610px;
+	height: 400px;
+	background: #FFFFFF;
+	float: right;
+}
+.logo .ab img{
+	height: 400px;
+	float: right;
+	margin-right: 100px;
+}
+.logo .hoho{
+	width: 400px;
+	height: 300px;
+	background: #FFFFFF;
+	float: left;
+	margin-left: 230px;
+	margin-top: 80px;
+}
+ .kudo{
+	font-size: 32px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	padding-top: 5px;
+	margin-left: 20px;
+	font-style:normal;
+}
+ .conan{
+	font-size: 20px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	padding-top: 5px;
+	margin-left: 30px;
+	font-style:normal;
+}
+.ten{
+	width: 1250px;
+	height: 400px;
+	background:#61EDB1;
+}
+.ten .hihi{
+	width: 430px;
+	height: 300px;
+	background:#61EDB1;
+	float: right;
+	margin-right: 200px;
+	margin-top: 83px;
+}
+
+.ten .ac{
+	width: 610px;
+	height: 400px;
+	background: #61EDB1;
+	float: left;
+}
+.ten .ac img {
+	height: 400px;
+	margin-left: 110px;
+}
+.footer{
+	width: 1250px;
+	height: 100px;
+	background:
+#3AAE7F;}
+.write {
+	width: 1250px;
+	height: 60px;
+	background:#DD696B ;
+}
+.write ul{
+	list-style: none;
+	background: #FFFFFF;
+	text-align: center;
+}
+.write ul li{
+	color: #FFFFFF;
+	display: inline-table;
+	width: 200px;
+	height: 60px;
+	line-height: 60px;
+}
+.write ul li a{
+	color:#000000 ;
+	text-decoration: none;
+	display: block;
+}
+.write ul li a {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
